@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gloom\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gloom\\.nuget\\packages"
+    ]
+  }
+}
